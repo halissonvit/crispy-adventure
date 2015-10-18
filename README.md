@@ -3,10 +3,9 @@
 
 ##### Theory
 
-* [Introduction to
-  VCS](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
-* [Getting started with
-  Git](http://alistapart.com/article/get-started-with-git)
+* [Introduction to VCS](http://swcarpentry.github.io/v4/vc/intro.html)
+* [Another introduction to VCS](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
+* [Getting started with Git](http://alistapart.com/article/get-started-with-git)
 * [TryGit](https://try.github.io/levels/1/challenges/1)
 * [Github](https://github.com)
 
