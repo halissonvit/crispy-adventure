@@ -17,3 +17,8 @@
 4. Create a repository on Github
 5. Push your local repo to Github
 
+##### More Resources
+* http://rogerdudlergithub.io/git-guide/
+* http://jeyg.info/dive-into-git-en/
+* http://gitref.org/
+* https://progit.org/
