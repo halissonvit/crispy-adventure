@@ -4,6 +4,7 @@
 
 * [Learn enough command line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+* [Command Line Cheat Sheet](http://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 ### Version Control System
 
