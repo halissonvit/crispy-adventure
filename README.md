@@ -1,4 +1,9 @@
 # A Biologist's journey into Software Development
+### Command Line
+##### Theory
+
+* [Learn enough command line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+
 ### Version Control System
 
 ##### Theory
