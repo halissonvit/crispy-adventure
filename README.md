@@ -3,6 +3,7 @@
 ##### Theory
 
 * [Learn enough command line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+* [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 ### Version Control System
 
